@@ -1,15 +1,19 @@
-👋 Introduction
+👋 Hi, I'm Priyanshu Kumar Sahu
+
+🚀 Aspiring Full Stack Developer
 
 💻 About Me
 
 🛠️ Tech Stack
+JavaScript | React.js | Node.js | Express.js | MongoDB
 
 🚀 Featured Projects
+⭐ ApnaBazarKart
+⭐ Other Projects
 
-🛒 ApnaBazarKart
-
-📊 GitHub Statistics
+📊 GitHub Stats
 
 🧠 DSA & Problem Solving
 
 📫 Connect With Me
+LinkedIn | Email | Portfolio
