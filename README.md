@@ -86,15 +86,13 @@ https://leetcode.com/u/priyanshu420/
 
 ---
 
-## 📊 GitHub Statistics
+# 🔗 My Coding Profiles
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-kumar-dev&show_icons=true&theme=tokyonight" alt="Priyanshu's GitHub Stats" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-priyanshu--kumar--dev-181717?style=for-the-badge&logo=github)](https://github.com/priyanshu-kumar-dev)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-kumar-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+[![LeetCode](https://img.shields.io/badge/LeetCode-priyanshu420-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/priyanshu420/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshu_Kumar_Sahu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshukumar-sahu/)
 
 ---
 
