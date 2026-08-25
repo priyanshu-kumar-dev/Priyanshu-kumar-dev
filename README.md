@@ -86,11 +86,15 @@ https://leetcode.com/u/priyanshu420/
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshu-kumar-dev&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-kumar-dev&show_icons=true&theme=tokyonight" alt="Priyanshu's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-kumar-dev&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-kumar-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
