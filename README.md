@@ -48,6 +48,10 @@ I am a passionate developer focused on building modern, responsive, and real-wor
 
 A full-stack e-commerce web application inspired by modern online shopping platforms.
 
+### 📸 Project Preview
+
+![ApnaBazarKart Preview](./Screenshot%202026-08-25%20185036.png)
+
 ### ✨ Features
 
 - 🔐 User Authentication
