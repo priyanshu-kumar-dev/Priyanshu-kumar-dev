@@ -144,6 +144,14 @@ const priyanshu = {
 
 ## 🛒 ApnaBazar
 
+<p align="center">
+  <img 
+    src="./Screenshot 2026-08-25 185036.png" 
+    alt="ApnaBazar Project Preview" 
+    width="90%"
+  />
+</p>
+
 ### Full Stack E-Commerce & Local Services Platform
 
 **ApnaBazar** is a full-stack web application inspired by modern e-commerce platforms, combined with local service functionality.
