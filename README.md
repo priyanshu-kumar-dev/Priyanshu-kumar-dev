@@ -1,148 +1,305 @@
-# Hi, I'm Priyanshu Kumar Sahu 👋
+# 👋 Hi, I'm Priyanshu Kumar Sahu
 
-### Software Engineer | Full Stack Developer | DSA & Problem Solving
+### `Full Stack Developer` • `MERN Stack Developer` • `Problem Solver`
 
-I’m a Computer Science student and Full Stack Developer focused on building **scalable, responsive, and real-world web applications**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F7C843&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Real-World+Web+Applications;Solving+Data+Structures+%26+Algorithms;Always+Learning+%26+Building" alt="Typing SVG" />
+</p>
 
-I work primarily with **JavaScript, React.js, Node.js, Express.js, MongoDB, and PostgreSQL**, while continuously improving my **Data Structures & Algorithms and problem-solving skills**.
-
-* 🔭 Currently building full-stack web applications
-* 🧠 Practicing Data Structures & Algorithms on LeetCode
-* 💻 Interested in Software Engineering, Backend Development & System Design
-* 🚀 Building real-world projects to strengthen my engineering skills
-* 🎯 Open to Software Engineer / Full Stack Developer opportunities
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+<p align="center">
+  <a href="https://github.com/priyanshu-kumar-dev">
+    <img src="https://img.shields.io/badge/GitHub-priyanshu--kumar--dev-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/priyanshu420/">
+    <img src="https://img.shields.io/badge/LeetCode-priyanshu420-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/priyanshukumar-sahu/">
+    <img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Kumar%20Sahu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Featured Project
+## 🧑‍💻 About Me
 
-### 🛒 ApnaBazar
+```javascript
+const priyanshu = {
+  role: "Full Stack Developer",
+  specialization: "MERN Stack",
+  currentlyLearning: [
+    "Data Structures & Algorithms",
+    "PostgreSQL",
+    "TypeScript",
+    "System Design"
+  ],
+  building: [
+    "Production-ready web applications",
+    "Full Stack projects",
+    "Real-world APIs"
+  ],
+  interests: [
+    "Software Development",
+    "Web Development",
+    "Problem Solving"
+  ],
+  goal: "Become a strong Software Engineer",
+  mindset: "Learn → Build → Solve → Improve"
+};
+```
 
-**ApnaBazar** is a full-stack e-commerce and local-services platform designed to provide a modern online shopping experience along with service-based features.
+---
 
-#### ✨ Key Features
+## 🚀 What I Do
 
-* 🔐 OTP-based user authentication
-* 🔑 JWT-based authentication
-* 🔍 Product search and filtering
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ Full Stack Development
+
+Building complete web applications with:
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs
+* Authentication
+* Payment Integration
+
+</td>
+
+<td width="50%">
+
+### 🧠 Problem Solving
+
+Improving my problem-solving skills through:
+
+* Data Structures & Algorithms
+* LeetCode
+* JavaScript
+* Complexity Analysis
+* Optimization
+* Interview Problems
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,html,css" />
+</p>
+
+### ⚛️ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 ApnaBazar
+
+> **Full Stack E-Commerce & Local Services Platform**
+
+A real-world full-stack web application inspired by modern e-commerce platforms, with additional local service functionality.
+
+### ✨ Highlights
+
+* 🔐 OTP-based authentication
+* 🔑 JWT authentication
 * 🛒 Shopping cart
 * ❤️ Wishlist
+* 🔍 Product search
 * 📦 Order management
-* 💳 Online payment integration
-* 📱 Responsive design
-* ☁️ Cloud-based image management
-* 📍 Address and booking functionality
-* 🔌 RESTful backend APIs
+* 💳 Razorpay payment integration
+* ☁️ Cloudinary image management
+* 📱 Responsive UI
+* 🌐 REST API architecture
+* 🚀 Deployed frontend & backend
 
-#### 🧰 Tech Used
+### 🧰 Tech
 
 `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Razorpay` `Cloudinary`
 
-#### 🔗 Links
+<p>
+<a href="https://apnabazar-1.onrender.com">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Project-F7C843?style=for-the-badge&labelColor=111111" />
+</a>
 
-🌐 **Live Demo:**
-https://apnabazar-1.onrender.com
-
-📂 **Source Code:**
-https://github.com/priyanshu-kumar-dev/ApnaBazar
-
----
-
-## 🧠 Data Structures & Algorithms
-
-I regularly practice DSA to improve my **problem-solving, algorithmic thinking, and coding interview skills**.
-
-### Topics I'm Practicing
-
-* Arrays & Strings
-* Hashing
-* Two Pointers
-* Sliding Window
-* Binary Search
-* Stack & Queue
-* Linked List
-* Trees
-* Graphs
-* Recursion & Backtracking
-* Dynamic Programming
-
-### 👨‍💻 LeetCode
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-priyanshu420-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/priyanshu420/)
-
-**Profile:**
-https://leetcode.com/u/priyanshu420/
+<a href="https://github.com/priyanshu-kumar-dev/ApnaBazar">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-ffffff?style=for-the-badge&labelColor=111111" />
+</a>
+</p>
 
 ---
 
-## 🎓 Education
+## 💬 WhatsApp Clone
 
-**B.Tech — Computer Science & Engineering**
-Jagannath University, Rajasthan
+> **Full Stack Real-Time Messaging Application**
 
-**CGPA:** 8.3
+Currently building a WhatsApp-inspired messaging application to strengthen my understanding of real-time communication, backend architecture and PostgreSQL.
 
----
+### Planned / Current Features
 
-## 📊 GitHub
+* 👤 User authentication
+* 💬 One-to-one messaging
+* ⚡ Real-time communication
+* 🟢 Online/offline status
+* 📨 Message persistence
+* 🗄️ PostgreSQL database
+* 🔌 REST APIs
+* 🏗️ Backend architecture
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshu-kumar-dev\&show_icons=true\&hide_border=true\&rank_icon=github)
+### 🧰 Tech
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-kumar-dev\&layout=compact\&hide_border=true)
+`React` `Node.js` `Express.js` `PostgreSQL` `JavaScript`
 
----
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanshu%20Kumar%20Sahu-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/priyanshukumar-sahu/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-priyanshu--kumar--dev-181717?style=for-the-badge\&logo=github)](https://github.com/priyanshu-kumar-dev)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-priyanshu420-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/priyanshu420/)
+> 🚧 **Currently in development**
 
 ---
 
-## 💼 Open to Opportunities
+# 🧠 DSA & Problem Solving
 
-I’m currently looking for opportunities as a:
+I regularly practice **Data Structures & Algorithms** to improve my problem-solving skills and prepare for software engineering interviews.
 
-**Software Engineer • Full Stack Developer • Backend Developer**
+<p align="center">
+  <a href="https://leetcode.com/u/priyanshu420/">
+    <img src="https://img.shields.io/badge/LeetCode-My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
-If you're interested in collaborating or have an opportunity that matches my skills, feel free to connect with me.
+### Currently Practicing
+
+```text
+Arrays
+Strings
+HashMap
+Two Pointers
+Sliding Window
+Binary Search
+Sorting
+Stack & Queue
+Linked List
+Trees
+Graphs
+Dynamic Programming
+```
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+# 📊 GitHub Analytics
 
-**Build. Learn. Solve. Improve. 🚀**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-kumar-dev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-kumar-dev&hide_border=true&theme=transparent" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-kumar-dev&layout=compact&hide_border=true&theme=transparent" width="45%" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-kumar-dev&hide_border=true&area=true&theme=github-compact" width="95%" />
+</p>
+
+---
+
+# 🎯 Current Focus
+
+```text
+┌──────────────────────────────────────────────┐
+│              CURRENT ROADMAP                 │
+├──────────────────────────────────────────────┤
+│                                              │
+│  ✅ MERN Stack                               │
+│  ✅ Full Stack Projects                      │
+│  🔄 Data Structures & Algorithms             │
+│  🔄 PostgreSQL                               │
+│  🔄 TypeScript                               │
+│  🔄 System Design                            │
+│  🎯 Software Engineering Internship          │
+│  🎯 Real-World Development Experience        │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+# 💼 Open to Opportunities
+
+I'm currently looking for:
+
+**MERN Stack Developer Internships**
+**Full Stack Developer Internships**
+**Software Development Internships**
+
+I'm especially interested in opportunities where I can:
+
+* Work on real-world products
+* Write production-level code
+* Collaborate with developers
+* Learn software engineering practices
+* Improve my problem-solving skills
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/priyanshukumar-sahu/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/priyanshu420/">
+<img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://github.com/priyanshu-kumar-dev">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⚡ Learn. Build. Solve. Repeat.
+
+**Thanks for visiting my profile!**
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</p>
