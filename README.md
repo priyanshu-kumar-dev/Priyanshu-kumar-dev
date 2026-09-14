@@ -7,15 +7,23 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/priyanshu-kumar-dev">
-    <img src="https://img.shields.io/badge/GitHub-priyanshu--kumar--dev-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/priyanshukumar-sahu/">
-    <img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Kumar%20Sahu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/priyanshu420/">
-    <img src="https://img.shields.io/badge/LeetCode-priyanshu420-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+
+<a href="https://portfolio-tan-three-bg4fe781bp.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-F7C843?style=for-the-badge&labelColor=111111" />
+</a>
+
+<a href="https://apnabazar-1.onrender.com/">
+<img src="https://img.shields.io/badge/🛒%20ApnaBazar-Live%20Demo-F7C843?style=for-the-badge&labelColor=111111" />
+</a>
+
+<a href="https://www.linkedin.com/in/priyanshukumar-sahu/">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/priyanshu420/">
+<img src="https://img.shields.io/badge/🧠%20LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
 </p>
 
 ---
@@ -30,19 +38,36 @@ I enjoy turning ideas into working products and continuously improving my skills
 const priyanshu = {
   role: "Full Stack Developer",
   specialization: "MERN Stack",
+
+  stack: [
+    "JavaScript",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "REST APIs"
+  ],
+
+  integrations: [
+    "2Factor OTP",
+    "Razorpay",
+    "Cloudinary"
+  ],
+
+  deployment: [
+    "Render",
+    "Vercel"
+  ],
+
   currentlyLearning: [
     "Data Structures & Algorithms",
     "PostgreSQL",
     "TypeScript",
     "System Design"
   ],
-  interests: [
-    "Full Stack Development",
-    "Backend Development",
-    "Problem Solving",
-    "Software Engineering"
-  ],
+
   goal: "Become a strong Software Engineer",
+
   mindset: "Learn → Build → Solve → Improve"
 };
 ```
@@ -54,59 +79,63 @@ const priyanshu = {
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
+<img src="https://skillicons.dev/icons?i=js,html,css" />
 </p>
 
 ### ⚛️ Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css" />
+<img src="https://skillicons.dev/icons?i=react,vite,html,css" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 </p>
 
 ### 🔐 Authentication & APIs
 
 <p>
 
-![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-005571?style=for-the-badge)
+<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+
+<img src="https://img.shields.io/badge/REST-API-005571?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/2Factor-OTP-111111?style=for-the-badge" />
 
 </p>
 
-### 💳 Integrations & Services
+### 💳 Integrations
 
 <p>
 
-![Razorpay](https://img.shields.io/badge/Razorpay-Payments-3395FF?style=for-the-badge)
-![2Factor](https://img.shields.io/badge/2Factor-OTP-111111?style=for-the-badge)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-Image%20Management-3448C5?style=for-the-badge\&logo=cloudinary\&logoColor=white)
+<img src="https://img.shields.io/badge/Razorpay-Payments-3395FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Cloudinary-Image%20Management-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 
 </p>
 
-### ☁️ Deployment & Hosting
+### ☁️ Deployment
 
 <p>
 
-![Render](https://img.shields.io/badge/Render-Deployment-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-Deployment-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+<img src="https://img.shields.io/badge/Render-Deployment-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Vercel-Deployment-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 </p>
 
 ### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
@@ -171,7 +200,7 @@ Git • GitHub • Postman
 </a>
 
 <a href="https://github.com/priyanshu-kumar-dev/ApnaBazar">
-<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-FFFFFF?style=for-the-badge&labelColor=111111" />
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
 </a>
 
 </p>
@@ -182,34 +211,39 @@ Git • GitHub • Postman
 
 ### Personal Developer Portfolio
 
-A responsive personal portfolio website created to showcase my **skills, projects, development journey and contact information**.
+A modern personal portfolio website built to showcase my **skills, projects, development journey and coding profiles**.
 
 ### ✨ Highlights
 
 * 🎨 Modern responsive UI
 * 📱 Mobile-friendly design
-* 💼 Project showcase
+* 💼 Projects showcase
 * 🧑‍💻 Developer profile
-* 🔗 Social & coding profiles
+* 🔗 GitHub & LeetCode integration
 * 📩 Contact section
 * ⚡ Fast and responsive experience
+* 🚀 Deployed on Vercel
 
 ### 🧰 Tech Stack
 
 ```text
-React.js
-JavaScript
-HTML5
-CSS3
-Vite
+Next.js
+TypeScript
+React
+Tailwind CSS
+Vercel
 ```
 
-### 🔗 Live Portfolio
+### 🔗 Project Links
 
-<p align="center">
+<p>
 
 <a href="https://portfolio-tan-three-bg4fe781bp.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-Visit%20Website-F7C843?style=for-the-badge&labelColor=111111" />
+</a>
+
+<a href="https://github.com/priyanshu-kumar-dev/portfolio">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
 </a>
 
 </p>
@@ -219,12 +253,6 @@ Vite
 # 🧠 DSA & Problem Solving
 
 I regularly practice **Data Structures & Algorithms** to improve my problem-solving skills and prepare for software engineering interviews.
-
-<p align="center">
-  <a href="https://leetcode.com/u/priyanshu420/">
-    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
 
 ### 📚 Currently Practicing
 
@@ -243,25 +271,12 @@ Graphs
 Dynamic Programming
 ```
 
----
+<p>
 
-# 📊 GitHub Analytics
+<a href="https://leetcode.com/u/priyanshu420/">
+<img src="https://img.shields.io/badge/🧠%20LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu-kumar-dev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-kumar-dev&hide_border=true&theme=transparent" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-kumar-dev&layout=compact&hide_border=true&theme=transparent" width="45%" />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-kumar-dev&hide_border=true&area=true&theme=github-compact" width="95%" />
 </p>
 
 ---
@@ -291,9 +306,11 @@ Dynamic Programming
 
 I'm currently looking for:
 
-**MERN Stack Developer Internships**
-**Full Stack Developer Internships**
-**Software Development Internships**
+### `MERN Stack Developer Internships`
+
+### `Full Stack Developer Internships`
+
+### `Software Development Internships`
 
 I'm interested in opportunities where I can:
 
@@ -306,36 +323,50 @@ I'm interested in opportunities where I can:
 
 ---
 
-# 🤝 Let's Connect
+# 🔗 My Profiles
 
 <p align="center">
 
+<a href="https://portfolio-tan-three-bg4fe781bp.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-F7C843?style=for-the-badge&labelColor=111111" />
+</a>
+
+<a href="https://apnabazar-1.onrender.com/">
+<img src="https://img.shields.io/badge/🛒%20ApnaBazar-Live-F7C843?style=for-the-badge&labelColor=111111" />
+</a>
+
+<a href="https://github.com/priyanshu-kumar-dev/ApnaBazar">
+<img src="https://img.shields.io/badge/💻%20ApnaBazar-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/priyanshu-kumar-dev/portfolio">
+<img src="https://img.shields.io/badge/💻%20Portfolio-Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 <a href="https://www.linkedin.com/in/priyanshukumar-sahu/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/u/priyanshu420/">
-<img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://portfolio-tan-three-bg4fe781bp.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-F7C843?style=for-the-badge&logo=vercel&logoColor=black" />
-</a>
-
-<a href="https://github.com/priyanshu-kumar-dev">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/🧠%20LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 </p>
 
 ---
 
+# ⚡ Developer Mindset
+
+```text
+Learn → Build → Solve → Improve → Repeat
+```
+
 <p align="center">
 
-### ⚡ Learn. Build. Solve. Repeat.
+### 🚀 Building today for a stronger tomorrow.
 
 **Thanks for visiting my profile!**
 
-⭐ Feel free to explore my repositories and connect with me.
+⭐ Explore my repositories and feel free to connect.
 
 </p>
